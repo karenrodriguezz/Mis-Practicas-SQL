@@ -1,12 +1,16 @@
-# Mis Prácticas de SQL para QA
-En este repositorio comparto mis primeros ejercicios de SQL enfocados en el área de Testing (QA).
+# Ejercicios y Consultas SQL 🗄️
 
-Creé una base de datos pequeña (una Tienda de Mascotas) y practiqué los siguientes puntos:
-1. **Creación de tablas:** Definí dónde se guarda la información de clientes y mascotas.
-2. **Inserción de datos:** Cargué información real y también algunos "errores a propósito" para poder encontrarlos.
+Repositorio dedicado a la práctica de lenguaje SQL para la gestión y consulta de bases de datos relacionales, una habilidad fundamental para el perfil de QA.
 
-podrás encontrar consultas para:
-* **Validar formatos:** Buscar si algún usuario escribió mal su correo electrónico.
-* **Verificar reglas de negocio:** Buscar si hay mascotas con edades imposibles (por ejemplo, 150 años).
-* **Chequeo de relaciones:** Ver si los clientes están bien conectados con sus mascotas.
+## 🎯 Objetivos del proyecto
+El propósito de estos scripts es demostrar mi capacidad para interactuar con bases de datos, asegurando la consistencia y recuperación precisa de la información.
 
+## 🧠 Conceptos aplicados
+* **DML (Data Manipulation Language):** Uso de `INSERT`, `UPDATE` y `DELETE`.
+* **Consultas de Selección:** Aplicación de `SELECT` con filtros `WHERE`, `LIKE` y operadores lógicos.
+* **Ordenamiento y Agrupación:** Uso de `ORDER BY` y `GROUP BY`.
+* **Joins (Próximamente):** Prácticas de unión de tablas para reportes complejos.
+
+## 🛠️ Entorno
+* **Motor:** SQL Server / MySQL (aclará el que uses más).
+* **Herramienta:** SQL Server Management Studio / Workbench.
